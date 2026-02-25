@@ -1,6 +1,6 @@
 # MERN Exersize Tracker (REST API + React UI)
 
-A full-stack MERN application that lets users create, view, update, and delete exersize logs.
+A full-stack MERN application that lets users create, view, update, and delete exercise logs.
 This project demonstrates a RESTful API built with Node/Express + MongoDB (Mongoose) and a REACT frontend that consumes the API.
 
 ## Features
